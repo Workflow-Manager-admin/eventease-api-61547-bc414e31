@@ -1,0 +1,4 @@
+{
+    "command": "python manage.py test",
+    "working_directory": "/home/kavia/workspace/code-generation/eventease-api-61547-bc414e31/event_manager_backend"
+}
